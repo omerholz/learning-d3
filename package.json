@@ -32,7 +32,7 @@
     "d3": "^3.5.17",
     "earth-topojson": "^1.0.0",
     "express": "^4.13.3",
-    "jsdom": "^8.0.2",
+    "jsdom": "^16.6.0",
     "lodash": "^3.10.1",
     "systemjs": "^0.19.18",
     "topojson": "^1.6.19"
